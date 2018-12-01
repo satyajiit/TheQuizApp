@@ -1,7 +1,7 @@
 # TheQuizApp
 
 Download The App :
-http://satyajiit.xyz/download.php?name=The_Quiz&type=app
+https://satyajiit.xyz/project-details.php?project=The_Quiz_App&type=apk
 
 * A Simple Android Quiz Application designed by SatyaJit.
 * My First Contribution and Development On OpenSource.
